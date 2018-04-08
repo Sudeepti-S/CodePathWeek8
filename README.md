@@ -23,7 +23,7 @@ GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePathWeek8/blob/ma
 
 Vulnerability #2: Session Hijacking/Fixation:: Two of the three websites expire their active sessions and require users to re-login every 30 minutes. That is probably too aggressive for the real world, but it is better than the third site which allows sessions to be a year old, and never regenerates the session ID, even when the user agent string changes. This makes it vulnerable to both session hijacking and session fixation attacks.
 
-GIF Walkthrough: ![alt text]()
+GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePathWeek8/blob/master/Blue_Session.gif)
 
 ## Green
 

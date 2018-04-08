@@ -27,9 +27,9 @@ GIF Walkthrough: ![alt text]()
 
 ## Green
 
-Vulnerability #1: Username Enumeration: A careless developer mistake has created a username enumeration vulnerability. Determine which color has the vulnerability. You can use the existing username "jmonroe99" as a test. Next, figure out what mistake the developer made.
+Vulnerability #1: Username Enumeration: A careless developer mistake has created a username enumeration vulnerability. Determine which color has the vulnerability. You can use the existing username "jmonroe99" as a test(I used pperson as an existing username since I was provided with that one). Next, figure out what mistake the developer made. The developers  included two different failure messages for existing account vs non-existing accounts. 
 
-GIF Walkthrough: ![alt text]()
+GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePathWeek8/blob/master/Green_UE.gif)
 
 Vulnerability #2: Cross-Site Scripting (XSS): All three sites do a good job of protecting against a reflected XSS attack. However, one of the sites has a mistake which leaves the site vulnerable to a stored XSS attack. A reflected XSS attack would be easy to reveal, while a stored XSS does not provide instant feedback. You will need to log into the admin area and look through the CMS in order to "spring the trap" and find out if your attack succeeded. Determine which color has the vulnerability. Use your name in the XSS so that your results won't be confused with anyone else's (example: <script>alert('Mallory found the XSS!');</script>).
 

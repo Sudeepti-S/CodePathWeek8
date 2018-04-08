@@ -48,9 +48,11 @@ GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePathWeek8/blob/ma
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF): One of the three sites does not have CSRF protections on the admin area. A clever attacker could design a form which would automatically submit form data to the staff area and take advantage of a logged in user's access permissions. Be the attacker and design a form which will make a change to the spelling of some database content. (For example, change the first user from "James" to "Jim", or change "Alabama" to "Alabamaaaa".) Then point the form action at each of the three sites to find out which color has the vulnerability. Do not neglect to be stealthy with your form—your unsuspecting, logged-in admin should neither see the form nor the results of the form submission.
 
-GIF Walkthrough: ![alt text]()
+GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePathWeek8/blob/master/Red_csf.gif)
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+This lab was a great learning expierence. I had the opportunity to practice various skills and test my knowledge gained from completing security shepard challenges. 
+
+All GIF's were created using Lic

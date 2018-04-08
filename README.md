@@ -33,7 +33,7 @@ GIF Walkthrough: ![alt text]()
 
 Vulnerability #2: Cross-Site Scripting (XSS): All three sites do a good job of protecting against a reflected XSS attack. However, one of the sites has a mistake which leaves the site vulnerable to a stored XSS attack. A reflected XSS attack would be easy to reveal, while a stored XSS does not provide instant feedback. You will need to log into the admin area and look through the CMS in order to "spring the trap" and find out if your attack succeeded. Determine which color has the vulnerability. Use your name in the XSS so that your results won't be confused with anyone else's (example: <script>alert('Mallory found the XSS!');</script>).
 
-GIF Walkthrough: ![alt text]()
+GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePathWeek8/blob/master/Green_1.gif)
 
 
 ## Red

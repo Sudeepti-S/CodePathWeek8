@@ -55,4 +55,4 @@ GIF Walkthrough: ![alt text](https://github.com/Sudeepti-S/CodePathWeek8/blob/ma
 
 This lab was a great learning expierence. I had the opportunity to practice various skills and test my knowledge gained from completing security shepard challenges. 
 
-All GIF's were created using Lic
+All GIF's were created using LiceCap.
